@@ -1,0 +1,6 @@
+A) A sequência está aumentando de 2 em 2. o próximo valor é 7+2=9
+B) Cada número é o dobro do anterior. o próximo será 64*2=128
+C) Cada numero é o quadrado do índice na sequencia. o próximo será 7^2=49
+D) São os quadrados dos números pares. O próximo será 10^2=100
+E) É a sequência de fibonacci, cada numero é a soma dos dois anteriores. O proximo será 8+5=13
+F) Não encontei uma lógica clara, mas me parece que ao final ele é adicionado de 1 em 1, logo o proximo valor seria 19+1=20
